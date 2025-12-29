@@ -46,5 +46,4 @@ body:
   - type: markdown
     attributes:
       value: |
-        **Notice:** Applications are reviewed by **Reece Niemuth** on a need-to-know basis.  
-        **Review time may vary, and access is not guaranteed.**
+        **Notice:** Applications are reviewed by **Reece Niemuth** on a need-to-know basis. Review time may vary, and access is not guaranteed.
