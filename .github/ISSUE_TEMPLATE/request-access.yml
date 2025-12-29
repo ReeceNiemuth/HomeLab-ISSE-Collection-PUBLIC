@@ -14,14 +14,16 @@ body:
     attributes:
       label: Name
       placeholder: Your full name
-      required: true
+validations:
+  required: true
 
   - type: input
     id: affiliation
     attributes:
       label: Affiliation / Organization
       placeholder: Company, school, or personal
-      required: false
+validations:
+  required: true
 
   - type: textarea
     id: reason
@@ -29,4 +31,7 @@ body:
       label: Reason for Access
       description: Briefly describe why you’re requesting access.
       placeholder: What are you hoping to review or learn?
-      required: true
+validations:
+  required: true
+
+Note: This request does not guarantee access. Submissions lacking sufficient detail may be declined.
