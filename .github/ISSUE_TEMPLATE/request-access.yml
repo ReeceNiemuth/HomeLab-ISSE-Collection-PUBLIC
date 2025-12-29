@@ -2,6 +2,7 @@ name: Request Access to Private Home Lab Repository
 description: Request access to the private HomeLab-ISSE-Collection repository
 title: "[Access Request] <Your Name / Org>"
 labels: ["access-request"]
+
 body:
   - type: markdown
     attributes:
@@ -14,16 +15,16 @@ body:
     attributes:
       label: Name
       placeholder: Your full name
-validations:
-  required: true
+    validations:
+      required: true
 
   - type: input
     id: affiliation
     attributes:
       label: Affiliation / Organization
       placeholder: Company, school, or personal
-validations:
-  required: true
+    validations:
+      required: false
 
   - type: textarea
     id: reason
@@ -31,5 +32,5 @@ validations:
       label: Reason for Access
       description: Briefly describe why you’re requesting access.
       placeholder: What are you hoping to review or learn?
-validations:
-  required: true
+    validations:
+      required: true
