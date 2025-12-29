@@ -1,36 +1,50 @@
-name: Request Access to Private Home Lab Repository
-description: Request access to the private HomeLab-ISSE-Collection repository
-title: "[Access Request] <Your Name / Org>"
+name: Request Access (Private Home Lab Repo)
+description: Submit a request to view the private HomeLab-ISSE-Collection repository.
+title: "[Access Request] <Name / Org>"
 labels: ["access-request"]
 
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for your interest in the private Home Lab repository.
-        Please complete the information below.
+        Please complete the fields below.  
+        **Do not include passwords, API keys, IP addresses, hostnames, or other sensitive details.**
 
   - type: input
-    id: name
+    id: requester_name
     attributes:
       label: Name
-      placeholder: Your full name
+      placeholder: First Last
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: Email or GitHub Username
+      placeholder: email@domain.com or @githubhandle
     validations:
       required: true
 
   - type: input
     id: affiliation
     attributes:
-      label: Affiliation / Organization
-      placeholder: Company, school, or personal
+      label: Affiliation
+      placeholder: Company / School / Personal
     validations:
       required: false
 
   - type: textarea
-    id: reason
+    id: justification
     attributes:
-      label: Reason for Access
-      description: Briefly describe why you’re requesting access.
+      label: Simple Access Justification
+      description: One or two sentences is fine.
       placeholder: What are you hoping to review or learn?
     validations:
       required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        **Notice:** Applications are reviewed by **Reece Niemuth** on a need-to-know basis.  
+        **Review time may vary, and access is not guaranteed.**
