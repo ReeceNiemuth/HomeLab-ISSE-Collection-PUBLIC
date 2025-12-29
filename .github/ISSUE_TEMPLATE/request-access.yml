@@ -33,5 +33,3 @@ validations:
       placeholder: What are you hoping to review or learn?
 validations:
   required: true
-
-Note: This request does not guarantee access. Submissions lacking sufficient detail may be declined.
