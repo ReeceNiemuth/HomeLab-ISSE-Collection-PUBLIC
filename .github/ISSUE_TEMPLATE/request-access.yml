@@ -1,6 +1,6 @@
 name: Request Access (Private Home Lab Repo)
 description: Submit a request to view the private HomeLab-ISSE-Collection repository.
-title: "[Access Request] <Name / Org>"
+title: "[Access Request] <GitHub Username>"
 labels: ["access-request"]
 
 body:
@@ -14,9 +14,8 @@ body:
     id: contact
     attributes:
       label: GitHub Username
-      placeholder: @githubhandle
-      value: |
-        **Used for Granting Account Access** 
+      description: Used only to grant repository access if approved.
+      placeholder: "@githubhandle"
     validations:
       required: true
 
@@ -25,11 +24,12 @@ body:
     attributes:
       label: Simple Access Justification
       description: One or two sentences is fine.
-      placeholder: What are you hoping to review not in the public repository?
+      placeholder: What are you hoping to review that is not in the public repository?
     validations:
       required: true
 
   - type: markdown
     attributes:
       value: |
-        **Notice:** Applications are reviewed by **Reece Niemuth** on a need-to-know basis. Review time may vary, and access is not guaranteed.
+        **Notice:** Applications are reviewed by **Reece Niemuth** on a need-to-know basis.  
+        **Review time may vary, and access is not guaranteed.**
