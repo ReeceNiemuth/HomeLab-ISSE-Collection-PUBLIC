@@ -11,8 +11,6 @@ body:
       value: |
         **Please do not remove "[Access Request]" from the title field**
 
-        **Please do not include PII, email addresses, passwords, API keys, IP addresses, hostnames, or other sensitive (non-public) information.**
-
   - type: input
     id: contact
     attributes:
