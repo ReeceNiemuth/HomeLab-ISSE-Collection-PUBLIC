@@ -1,6 +1,6 @@
 name: Request Access (Private Home Lab Repo)
 description: Submit a request to view the private HomeLab-ISSE-Collection repository.
-title: "[Access Request] <GitHub Username>"
+title: "[Access Request] <Your Preferred Name>"
 labels: ["access-request"]
 
 body:
