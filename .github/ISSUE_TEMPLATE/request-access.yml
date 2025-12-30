@@ -20,6 +20,11 @@ body:
     validations:
       required: true
 
+  - type: markdown
+    attributes:
+      value: |
+        **Please do not include PII, email addresses, passwords, API keys, IP addresses, hostnames, or other sensitive (non-public) information.**
+
   - type: textarea
     id: justification
     attributes:
@@ -28,11 +33,6 @@ body:
       placeholder: What are you hoping to review that is not in the public repository?
     validations:
       required: true
-
-  - type: markdown
-    attributes:
-      value: |
-        **Please do not include PII, email addresses, passwords, API keys, IP addresses, hostnames, or other sensitive (non-public) information.**
 
   - type: markdown
     attributes:
