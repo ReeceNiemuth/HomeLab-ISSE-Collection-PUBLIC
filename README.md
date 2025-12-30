@@ -35,7 +35,7 @@ For a deeper look into the current work, implementation details, and supporting 
 ```bash
 HomeLab-ISSE-Collection-PUBLIC/
 │
-├── .github/ISSUE_TEMPLATE        # Ingore this, Handles PRIVATE access requests.
+├── .github/ISSUE_TEMPLATE        # Ingore this, Handles PRIVATE Repository access requests.
 │
 ├── extras/                       # Ingore this, simple storage for PNGs, screenshots, etc.
 │
