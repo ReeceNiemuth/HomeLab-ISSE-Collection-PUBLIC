@@ -5,11 +5,13 @@ labels: ["access-request"]
 assignees:
   - ReeceNiemuth
 
+
 body:
   - type: markdown
     attributes:
       value: |
-        **Please do not remove "[Access Request]" from the title field**
+        > Please do not remove "[Access Request]" from the title field
+
 
   - type: input
     id: contact
@@ -20,10 +22,12 @@ body:
     validations:
       required: true
 
+
   - type: markdown
     attributes:
       value: |
-        **Please do not include PII, email addresses, passwords, API keys, IP addresses, hostnames, or other sensitive (non-public) information.**
+        > Please do not include PII, email addresses, passwords, API keys, IP addresses, hostnames, or other sensitive (non-public) information.
+
 
   - type: textarea
     id: justification
@@ -34,7 +38,9 @@ body:
     validations:
       required: true
 
+
   - type: markdown
     attributes:
       value: |
+        
         **Notice:** Applications are reviewed by **Reece Niemuth** on a need-to-know basis. Review time may vary, and access is not guaranteed.**
