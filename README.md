@@ -35,18 +35,17 @@ For a deeper look into the current work, implementation details, and supporting 
 ```bash
 HomeLab-ISSE-Collection-PUBLIC/
 │
-├── .github/ISSUE_TEMPLATE    # Ingore this, it's just a repository-hosted method of handling PRIVATE access requests.
-│   └── pcos-project/
+├── .github/ISSUE_TEMPLATE        # Ingore this, Handles PRIVATE access requests.
+│
+├── extras/                       # Ingore this, simple storage for PNGs, screenshots, etc.
 │
 ├── main/
-│   ├── tooling-and-automation/
-│   ├── research-notes/
-│   └── rd-experiments/
+│   ├── tooling-and-automation/   # Capabilities considered complete" for automation and tooling.
+│   ├── research-notes/           # Lessons Learned and Notes on Developments for the Public.
+│   └── rd-experiments/           # Technical Dcoumentation and Research Notes on Apps, Systems,etc.
 │
-├── extras/                  # Ingore this, simple storage for PNGs, screenshots, etc.
-│
-├── showcase/                # Sanitized screenshots, highlights, and "complete" tooling / projects for public review
-│   └── pcos-project/
+├── showcase/                     # Sanitized screenshots, highlights, and "complete" tooling / projects.
+│   └── pcos-project/             # DoD Compliance focused case study, with full comprehensive approach.
 │
 └── README.md
 ```
