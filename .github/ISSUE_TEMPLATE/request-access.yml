@@ -8,38 +8,24 @@ body:
     attributes:
       value: |
         Please complete the fields below.  
-        **Do not include passwords, API keys, IP addresses, hostnames, or other sensitive details.**
-
-  - type: input
-    id: requester_name
-    attributes:
-      label: Name
-      placeholder: First Last
-    validations:
-      required: true
+        **Do not include PII, email addresses, passwords, API keys, IP addresses, hostnames, or other sensitive (non-public) information.**
 
   - type: input
     id: contact
     attributes:
-      label: Email or GitHub Username
-      placeholder: email@domain.com or @githubhandle
+      label: GitHub Username
+      placeholder: @githubhandle
+      value: |
+        **Used for Granting Account Access** 
     validations:
       required: true
-
-  - type: input
-    id: affiliation
-    attributes:
-      label: Affiliation
-      placeholder: Company / School / Personal
-    validations:
-      required: false
 
   - type: textarea
     id: justification
     attributes:
       label: Simple Access Justification
       description: One or two sentences is fine.
-      placeholder: What are you hoping to review or learn?
+      placeholder: What are you hoping to review not in the public repository?
     validations:
       required: true
 
