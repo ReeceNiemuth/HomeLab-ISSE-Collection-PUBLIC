@@ -19,8 +19,9 @@
 </p>
 
 ---
-
-### Heres a little dump of the Splunk stuff I have built that (I think) is pretty sweet! 😎
+<p align="center">
+<h3>Heres a little dump of the Splunk stuff I have built that (I think) is pretty sweet! 😎</h3>
+</p>
 
 **End-to-End Data Validation & Forwarder Operability Tool**
 <p align="center">
