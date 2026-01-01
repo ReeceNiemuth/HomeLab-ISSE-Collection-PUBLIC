@@ -9,15 +9,16 @@ Feel free to play around with the tooling here or simply browse some of the scre
 </p>
 
 ---
-
-## Showcase Items
-
-1) ⚙️ **The Patriot Command Operations Center (PCOS) Initiative:** A fully documented, RMF-aligned security engineering environment designed to mirror real-world system authorization, assessment, and continuous monitoring workflows. It demonstrates end-to-end security lifecycle execution across architecture, baseline enforcement, assessment, risk analysis, remediation tracking, and validation.
-<p align="left">
-  💬 <i><a href="https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection-PUBLIC/showcase/pcos-project">Click here to review PCOS highlights!</a> </i>
+<p align="center">
+## My Homelab Showcase Items
 </p>
 
-2) 👽 **Splunk Developments:** Various Original Splunk Tools, to include Technical Add-Ons (TAs), Applications, Dashboards, custom SPL queries for common / valuable data manipulation goals, and more!
 <p align="left">
-  💬 <i><a href="https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection-PUBLIC/showcase/splunk-dev">Click here to review PCOS highlights!</a> </i>
+1) ⚙️ **The Patriot Command Operations Center (PCOS) Initiative:** A fully documented, RMF-aligned security engineering environment designed to mirror real-world system authorization, assessment, and continuous monitoring workflows. It demonstrates end-to-end security lifecycle execution across architecture, baseline enforcement, assessment, risk analysis, remediation tracking, and validation.
+💬 <i><a href="https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection-PUBLIC/showcase/pcos-project">Click here to review PCOS highlights!</a> </i>
+</p>
+
+<p align="left">
+2) 👽 **Splunk Developments:** Various Original Splunk Tools, to include Technical Add-Ons (TAs), Applications, Dashboards, custom SPL queries for common / valuable data manipulation goals, and more!
+💬 <i><a href="https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection-PUBLIC/showcase/splunk-dev">Click here to review PCOS highlights!</a> </i>
 </p>
