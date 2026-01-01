@@ -25,5 +25,5 @@ Feel free to play around with the tooling here or simply browse some of the scre
   
 👽 **Splunk Developments:** Various Original Splunk Tools, to include Technical Add-Ons (TAs), Applications, Dashboards, custom SPL queries for common / valuable data manipulation goals, and more!
 
-  💬 <i><a href="https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection-PUBLIC/showcase/splunk-dev">Click here to review my Homelab Splunk Developments!</a> </i>
+  💬 <i><a href="https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection-PUBLIC/tree/main/showcase/splunk-dev">Click here to review my Homelab Splunk Developments!</a> </i>
 </p>
