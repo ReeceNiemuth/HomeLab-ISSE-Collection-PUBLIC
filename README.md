@@ -1,7 +1,8 @@
 <div align="center">
 
-**OPEN ACCESS – PUBLIC REPOSITORY**
----
+<p align="center">
+  <img src="./extras/OpenAccessNotice.drawio.png" alt="Click the Top-Left Issues Tab" style="max-width: 100%;">
+</p>
 
 <h1>Welcome to my Home Lab Hub!</h1>
   
