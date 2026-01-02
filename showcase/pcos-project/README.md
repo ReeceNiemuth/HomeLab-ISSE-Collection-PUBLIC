@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./extras/Home_Lab_Hub_Banner.png" alt="PCOSBanner" />
+  <img src="./extras/PCOS_system_banner.png" alt="PCOSBanner" />
 </p>
 
 My **Patriot Command Operations System (PCOS)** project is a fully documented, RMF-aligned security enclave that demonstrates end-to-end system engineering—from architecture and baselining through assessment, risk, remediation, authorization, and continuous monitoring—using real tools, real findings, and auditable evidence.
