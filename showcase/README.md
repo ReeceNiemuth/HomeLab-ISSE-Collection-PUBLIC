@@ -1,6 +1,6 @@
 # 🔦 Welcome to my Homelab Showcase!
 
-Here, I store generally "finished" or full/semi-operational developments(including beta), tooling, and generally the work I decide to publicly share from my testbed homelab.
+Here, I store generally "finished" or full/semi-operational developments(including beta), tooling, and generally the work I decide to publicly share from my test bed homelab.
 
 Feel free to play around with the tooling here or simply browse some of the screenshots and demonstrations of my homelab-related work!
 
